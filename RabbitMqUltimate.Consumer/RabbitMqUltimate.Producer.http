@@ -1,0 +1,6 @@
+@RabbitMqUltimate.Producer_HostAddress = http://localhost:5150
+
+GET {{RabbitMqUltimate.Producer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
